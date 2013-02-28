@@ -1,6 +1,6 @@
 {
     "name": "sql2o-javadoc",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "dependencies": {
         "connect": "2.7.3"
     },
