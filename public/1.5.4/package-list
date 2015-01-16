@@ -1,0 +1,11 @@
+org.sql2o
+org.sql2o.converters
+org.sql2o.converters.joda
+org.sql2o.data
+org.sql2o.logging
+org.sql2o.quirks
+org.sql2o.quirks.parameterparsing
+org.sql2o.quirks.parameterparsing.impl
+org.sql2o.quirks.spi
+org.sql2o.reflection
+org.sql2o.tools
